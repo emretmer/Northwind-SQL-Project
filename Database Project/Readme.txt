@@ -1,0 +1,1 @@
+For the program to work, the Northwind database must be installed.

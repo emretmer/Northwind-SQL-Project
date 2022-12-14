@@ -1,0 +1,28 @@
+C:\Proje\proje2\proje2\bin\Debug\proje2.exe.config
+C:\Proje\proje2\proje2\bin\Debug\proje2.exe
+C:\Proje\proje2\proje2\bin\Debug\proje2.pdb
+C:\Proje\proje2\proje2\obj\Debug\proje2.csproj.AssemblyReference.cache
+C:\Proje\proje2\proje2\obj\Debug\proje2.csproj.SuggestedBindingRedirects.cache
+C:\Proje\proje2\proje2\obj\Debug\proje2.Form1.resources
+C:\Proje\proje2\proje2\obj\Debug\proje2.Form2.resources
+C:\Proje\proje2\proje2\obj\Debug\proje2.Properties.Resources.resources
+C:\Proje\proje2\proje2\obj\Debug\proje2.csproj.GenerateResource.cache
+C:\Proje\proje2\proje2\obj\Debug\proje2.csproj.CoreCompileInputs.cache
+C:\Proje\proje2\proje2\obj\Debug\proje2.exe
+C:\Proje\proje2\proje2\obj\Debug\proje2.pdb
+C:\Proje\proje2\proje2\obj\Debug\proje2.ListForm.resources
+C:\Proje\proje2\proje2\obj\Debug\proje2.EmployeeOperation.resources
+C:\Proje\proje2\proje2\obj\Debug\proje2.LoginSettings.resources
+C:\Users\Emre Tümer\Downloads\proje2\proje2\proje2\bin\Debug\proje2.exe.config
+C:\Users\Emre Tümer\Downloads\proje2\proje2\proje2\bin\Debug\proje2.exe
+C:\Users\Emre Tümer\Downloads\proje2\proje2\proje2\bin\Debug\proje2.pdb
+C:\Users\Emre Tümer\Downloads\proje2\proje2\proje2\obj\Debug\proje2.csprojAssemblyReference.cache
+C:\Users\Emre Tümer\Downloads\proje2\proje2\proje2\obj\Debug\proje2.EmployeeOperation.resources
+C:\Users\Emre Tümer\Downloads\proje2\proje2\proje2\obj\Debug\proje2.Form1.resources
+C:\Users\Emre Tümer\Downloads\proje2\proje2\proje2\obj\Debug\proje2.Form2.resources
+C:\Users\Emre Tümer\Downloads\proje2\proje2\proje2\obj\Debug\proje2.ListForm.resources
+C:\Users\Emre Tümer\Downloads\proje2\proje2\proje2\obj\Debug\proje2.LoginSettings.resources
+C:\Users\Emre Tümer\Downloads\proje2\proje2\proje2\obj\Debug\proje2.Properties.Resources.resources
+C:\Users\Emre Tümer\Downloads\proje2\proje2\proje2\obj\Debug\proje2.csproj.GenerateResource.cache
+C:\Users\Emre Tümer\Downloads\proje2\proje2\proje2\obj\Debug\proje2.exe
+C:\Users\Emre Tümer\Downloads\proje2\proje2\proje2\obj\Debug\proje2.pdb
